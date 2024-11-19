@@ -26,6 +26,10 @@ Un'applicazione desktop sviluppata in **Java** per la gestione delle attività d
 
 ---
 
+## Documentazione
+
+- **Documentazione**: Il file Progetto_Basi_di_Dati_Ufficiale.pdf contiene tutte le informazioni, class diagram, sequence diagram necessari alla comprensione dell'applicativo.
+
 ## Installazione
 
 1. **Clona la repository**:
