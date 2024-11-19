@@ -30,4 +30,4 @@ Un'applicazione desktop sviluppata in **Java** per la gestione delle attività d
 
 1. **Clona la repository**:
    ```bash
-   git clone [[https://github.com/tuo-utente/gestionale-procuratori-sportivi.git]](https://github.com/LuigiVessella/Progetto-OO-DB.git)
+   git clone https://github.com/LuigiVessella/Progetto-OO-DB.git
